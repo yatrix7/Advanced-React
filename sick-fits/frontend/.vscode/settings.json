@@ -21,5 +21,9 @@
     "javascriptreact"
 ],
 "editor.formatOnPaste": true,
-"editor.formatOnType": true
+"editor.formatOnType": true,
+"cSpell.words": [
+  "radnika",
+  "radnikanext"
+]
 }
